@@ -2,6 +2,10 @@
 
 ## daily progress
 
+#### 20240202
+✔️ Options data read from drive <br>
+✔️ pnl generation for each date and option levels
+
 #### 20240201
 ✔️ read back nifty prices in to notebook <br>
 ✔️ options chain data extracted since 20240129 <br>
