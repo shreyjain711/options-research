@@ -2,8 +2,11 @@
 
 ## In Progress (20240205-20240301)
 - Run daily data collection function
+- Data visualisation functions:
+  - Daywise drawdown charts
+  - Portfolio progression chart
 
-## daily progress
+## Progress Report
 
 #### 20240203
 ✔️ Can print PnL for each day and for various option levels <br>
