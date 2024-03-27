@@ -1,4 +1,6 @@
-# options-research
+# options-research (closed)
+
+## Will pick up research over delta neutral strategies in detail
 
 ## In Progress (20240205-20240301)
 - Run daily data collection function
